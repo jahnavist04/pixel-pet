@@ -1,4 +1,4 @@
-# 🐾 Pixel Pet — Your Tiny Digital Bestie
+# 🐾 Pixel Pet - Your Tiny Digital Bestie
 
 Meet Mochi, your adorable pixel-inspired virtual cat! 🍓
 
